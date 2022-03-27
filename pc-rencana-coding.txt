@@ -2,5 +2,7 @@ Rencana coding
 1. Belajar Sass
 2. Belajar CSS Grid
 3. Belajar Tailwind CSS
-4. Belajar Typescript
-5. Belajar VUE JS
+4. Belajar Resposive layar
+5. Belajar Javscript ES6
+6. Belajar Typescript
+7. Belajar React JS
