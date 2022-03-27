@@ -3,3 +3,5 @@ Rencana coding
 2. Belajar CSS Grid
 3. Belajar Tailwind CSS
 4. Belajar Resposive layar
+5. Belajar Javscript ES6
+6. Belajar Typescript
