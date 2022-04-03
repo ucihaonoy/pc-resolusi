@@ -5,4 +5,5 @@ Rencana coding
 4. Belajar Resposive layar
 5. Belajar Javscript ES6
 6. Belajar Typescript
-7. Belajar React JS
+7. Belajar framework javascript: angular
+
